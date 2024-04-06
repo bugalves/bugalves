@@ -8,8 +8,7 @@ I've been learning to code for 2 years. I started with HTML and CSS, but now I'm
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [goncalves345diogo@gmail.com](mailto:goncalves345diogo@gmail.com)
-* 🚀  I'm currently working on [Palácio do Pão](http://github.com/anonimos-23/palaciodopao)
-* 🧠  I'm learning Next.js, Prisma, OAuth and JWT
+* 🚀  I'm currently working on [Roomix](http://github.com/anonimos-23/roomix-web)
 * 🤝  I'm open to collaborating on web projects
 
 ### Skills

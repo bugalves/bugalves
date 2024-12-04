@@ -1,12 +1,12 @@
 Hello, I'm Diogo Gonçalves 👋
 =======================================================================================================================================
 
-I'm a fullstack developer aiming to get more knowledge on back-end development. I started to code since 2 years and now I'm trying to get into new projects.
+I'm a fullstack developer aiming to get more knowledge on devops. I started to code since 3 years.
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [goncalves345diogo@gmail.com](mailto:goncalves345diogo@gmail.com)
-* 🚀  I'm currently working on [Roomix](http://github.com/anonimos-23/roomix-web)
-* 🤝  I'm open to collaborating on web projects
+* 🚀  I'm currently working on private projects
+* 🤝  I'm open to collaborating on new projects
 
 ### Skills
 
